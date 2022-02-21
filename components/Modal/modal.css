@@ -1,7 +1,7 @@
 .modal {
-    color: black;
-    box-shadow: #00000059 0px 5px 15px;
-    background-color: whitesmoke;
+    color: var(--black-color);
+    box-shadow: var(--shadow-color) 0px 5px 15px;
+    background-color: var(--white-smoke-color);
     border-radius: 0.5rem;
     width: fit-content;
     padding: 1rem 1.5rem;
@@ -32,7 +32,7 @@
 }
 
 .btn{
-    color: white;
+    color: var(--white-color);
     font-weight: 600;
     padding: 0.7rem 1rem;
     border: none;

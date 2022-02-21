@@ -9,6 +9,11 @@
     --nav-item-color: rgb(121, 120, 120);
     --text-color: white;
     --primary-heading-color: white;
+    --white-color: white;
+    --black-color: black;
+    --shadow-color: rgba(0, 0, 0, 0.7);
+    --white-smoke-color: whitesmoke;
+    --border-color: rgb(49, 49, 49);
 
     --primary-dark: #2670a8;
     --success-dark: #0e6e13;

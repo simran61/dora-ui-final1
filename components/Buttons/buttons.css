@@ -1,5 +1,5 @@
 .btn{
-    color: white;
+    color: var(--white-color);
     font-weight: 600;
     padding: 0.7rem 1rem;
     border: none;
@@ -59,7 +59,7 @@
 
 .btn_outline_primary:hover{
     background-color: var(--primary-color-cl);
-    color: white;
+    color: var(--white-color);
 }
 
 .btn_outline_success{
@@ -69,7 +69,7 @@
 
 .btn_outline_success:hover{
     background-color: var(--success-color-cl);
-    color: white;
+    color: var(--white-color);
 }
 
 .btn_outline_warning{
@@ -79,7 +79,7 @@
 
 .btn_outline_warning:hover{
     background-color: var(--warning-color-cl);
-    color: white;
+    color: var(--white-color);
 }
 
 .btn_outline_danger{
@@ -89,7 +89,7 @@
 
 .btn_outline_danger:hover{
     background-color: var(--danger-color-cl);
-    color: white;
+    color: var(--white-color);
 }
 
 .btn_outline_dark{
@@ -99,7 +99,7 @@
 
 .btn_outline_dark:hover{
     background-color: var(--dark-color-cl);
-    color: white;
+    color: var(--white-color);
 }
 
 .light_out_btn_primary{
@@ -108,7 +108,7 @@
 
 .light_out_btn_primary:hover{
     background-color: var(--primary-color-cl);
-    color: white;
+    color: var(--white-color);
 }
 
 .light_out_btn_success{
@@ -117,7 +117,7 @@
 
 .light_out_btn_success:hover{
     background-color: var(--success-color-cl);
-    color: white
+    color: var(--white-color);
 }
 
 .light_out_btn_warning{
@@ -126,7 +126,7 @@
 
 .light_out_btn_warning:hover{
     background-color: var(--warning-color-cl);
-    color: white;
+    color: var(--white-color);
 }
 
 .light_out_btn_danger{
@@ -135,7 +135,7 @@
 
 .light_out_btn_danger:hover{
     background-color: var(--danger-color-cl);
-    color: white;
+    color: var(--white-color);
 }
 
 .light_out_btn_dark{
@@ -144,7 +144,7 @@
 
 .light_out_btn_dark:hover{
     background-color: var(--dark-color-cl);
-    color: white;
+    color: var(--white-color);
 }
 
 .link_btn{

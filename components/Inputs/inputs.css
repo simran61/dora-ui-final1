@@ -3,7 +3,7 @@
     padding: 0.8rem 1rem;
     font-size: 1rem;
     outline: none;
-    border: 2px solid rgb(49, 49, 49);
+    border: 2px solid var(--border-color);
 }
 
 .input_field_standard:hover{
@@ -42,7 +42,7 @@
 
 .disabled_field{
     pointer-events: none;
-    background-color: #c9cbcc;
+    background-color: var(--tagline-color);
 }
 
 .primary_inp{

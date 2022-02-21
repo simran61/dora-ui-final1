@@ -2,7 +2,7 @@
     display: flex;
     border-radius: 0.7rem;
     padding: 0.5rem 1rem;
-    color: black;
+    color: var(--black-color);
     align-items: center;
     margin: 1rem;
 }
@@ -47,7 +47,7 @@
 
 .info_al_icon{
     color: var(--info-bg);
-    text-shadow: 4px 2px var(--info-shadow);
+    text-shadow: 0.25rem 0.125rem var(--info-shadow);
     background-color: var(--info-dark);
 }
 
@@ -57,26 +57,26 @@
 
 .error_al_icon{
     color: var(--error-bg);
-    text-shadow: 2px 3px var(--error-shadow);
+    text-shadow: 0.125rem 0.19rem var(--error-shadow);
     background-color: var(--error-dark);
 }
 
 .success_outline{
-    border: 3px solid var(--success-dark);
-    background-color: #fff;
+    border: 0.19rem solid var(--success-dark);
+    background-color: var(--white-color);
 }
 
 .warning_outline{
-    border: 3px solid var(--warning-dark);
-    background-color: #fff;
+    border: 0.19rem solid var(--warning-dark);
+    background-color: var(--white-color);
 }
 
 .info_outline{
-    border: 3px solid var(--info-dark);
-    background-color: #fff;
+    border: 0.19rem solid var(--info-dark);
+    background-color: var(--white-color);
 }
 
 .error_outline{
-    border: 3px solid var(--error-dark);
-    background-color: #fff;
+    border: 0.19rem solid var(--error-dark);
+    background-color: var(--white-color);
 }

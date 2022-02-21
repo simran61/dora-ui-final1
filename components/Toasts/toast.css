@@ -4,14 +4,14 @@
     padding: 1rem 2rem;
     justify-content: space-between;
     border-radius: 0.5rem;
-    color: white;
+    color: var(--white-color);
     width: 70%;
     font-weight: 500;
-    box-shadow: 5px 5px 8px #757474;
+    box-shadow: 0.313rem 0.313rem 0.5rem var(--nav-item-color);
 }
 
 .hide_toast>i{
-    color: white;
+    color: var(--white-color);
 }
 
 .hide_toast{
@@ -22,5 +22,5 @@
 }
 
 .hide_toast:hover{
-    color: #1d547e;
+    color: var(--scrollbar-color);
 }
