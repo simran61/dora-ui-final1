@@ -1,0 +1,40 @@
+.ol_list_style{
+    margin: 0 2rem;
+    color: black;
+}
+
+.list_style{
+    color: black;
+}
+
+.customized_list{
+    width: 80%;
+    background-color: whitesmoke;
+    border: 1px solid grey;
+}
+
+.list-item{
+    cursor: pointer;
+    list-style: none;
+    padding: 1rem 2rem;
+    border-top:1px solid grey;
+    color: black;
+}
+
+.list-heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.stacked_list_para{
+    margin: 0.6rem 0;
+}
+
+.para_sm{
+font-size: 0.8rem;
+}
+
+.list-item:hover{
+    background-color: var(--primary-color-cl);
+    color: white;
+}
