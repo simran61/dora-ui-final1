@@ -1,12 +1,3 @@
-:root{
-    --primary-dark: #2670a8;
-    --success-dark: #0e6e13;
-    --warning-dark: #C19612;
-    --danger-dark: #a31313;
-    --dark-dark: #212122;
-
-}
-
 .btn{
     color: white;
     font-weight: 600;
