@@ -5,7 +5,7 @@
 }
 
 .star:hover{
-    color: var(--primary-color-cl);
+    color: var(--warning-dark);
 }
 
 .rating_desc{

@@ -1,9 +1,3 @@
-:root{
-    --primary-color: #2B7BB8;
-    --online-color: rgb(27, 172, 51);
-    --offline-color: rgb(250, 52, 52);
-}
-
 .avatar_status, .avatar_badge{
     position: relative;
 }

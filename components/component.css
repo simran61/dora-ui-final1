@@ -10,5 +10,7 @@
 @import url('/components/Modal/modal.css');
 @import url('/components/Navigation/navigation.css');
 @import url('/components/Rating/rating.css');
+@import url('/components/Slider/slider.css');
 @import url('/components/Text_Utilities/text_utilities.css');
 @import url('/components/Toasts/toast.css');
+@import url('/components/color.css');
