@@ -1,0 +1,55 @@
+:root{
+    --red-noti-color: rgb(250, 52, 52);
+}
+
+.avatar{
+    width: 60px;
+    border-radius: 100%;
+}
+
+.squared{
+    border-radius: 0.5rem;
+}
+
+.av_sm{
+    width: 40px;
+    height: 40px;
+}
+
+.av_md{
+    width: 60px;
+    height: 60px;
+}
+
+.av_lg{
+    width: 80px;
+    height: 80px;
+}
+
+.av_xl{
+    width: 100px;
+    height: 100px;
+}
+
+.avatar_badge{
+    position: relative;
+}
+
+.noti_badge{
+    position: absolute;
+    top: -0.5rem;
+    right: -0.5rem;
+    font-size: 0.9rem;
+    background-color: var(--red-noti-color);
+    border-radius: 50%;
+    padding: 0.2rem;
+    border: 1px solid white;
+}
+
+.noti_icon{
+    position: absolute;
+    top: -0.6rem;
+    right: -0.4rem;
+    font-size: 1.5rem;
+    color: var(--red-noti-color);
+}
