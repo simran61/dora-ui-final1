@@ -1,5 +1,5 @@
 .avatar{
-    width: 60px;
+    width: 3.75rem;
     border-radius: 100%;
 }
 
@@ -8,23 +8,23 @@
 }
 
 .av_sm{
-    width: 40px;
-    height: 40px;
+    width: 2.5rem;
+    height: 2.5rem;
 }
 
 .av_md{
-    width: 60px;
-    height: 60px;
+    width: 3.75rem;
+    height: 3.75rem;
 }
 
 .av_lg{
-    width: 80px;
-    height: 80px;
+    width: 5rem;
+    height: 5rem;
 }
 
 .av_xl{
-    width: 100px;
-    height: 100px;
+    width: 6.25rem;
+    height: 6.25rem;
 }
 
 .avatar_badge{

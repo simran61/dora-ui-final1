@@ -14,8 +14,8 @@
 .status_badge{
     position: absolute;
     border-radius: 100%;
-    height: 15px;
-    width: 15px;
+    height: 0.938rem;
+    width: 0.938rem;
 }
 
 .status_badge_sq{
