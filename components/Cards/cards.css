@@ -1,0 +1,122 @@
+.card{
+    width: 330px;
+    height: fit-content;
+    border-radius: 0.7rem;
+    background-color: white;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7);
+    margin: 1rem;
+}
+
+.card_img{
+    height: 180px;
+}
+
+.card_img img{
+    width: 330px;
+    height: 180px;
+    border-radius: 0.7rem 0.7rem 0 0;
+}
+
+.relative{
+    position: relative;
+}
+
+.badge{
+    position: absolute;
+    top: 1.5rem;
+    left: 0;
+    background-color: rgb(8, 28, 85);
+    padding: 0.2rem 1rem;
+
+}
+
+.card_content{
+    padding: 0 1rem;
+    font-size: 0.9rem;
+}
+
+.card_headings{
+    padding: 1rem 0;
+    color: black;
+}
+
+.tagline{
+    margin-top: 0.3rem;
+}
+
+.desc{
+    color: black;
+}
+
+.card_links{
+    padding: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text_links a:first-child{
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 550;
+}
+
+.grey_text{
+    color: grey;
+}
+
+.icon_links a{
+    margin-left: 17px;
+    font-size: 1.2rem;
+}
+
+/* card 3 */
+.right_end{
+    margin-left: auto;
+}
+
+/* card 4 */
+.card4{
+    position: relative;
+}
+
+.above_img{
+    position: absolute;
+    top: 105px;
+    color: white;
+}
+
+.margin_top_sm{
+    margin-top: 15px;
+}
+
+/* card 5 */
+.card5 .fix_bRadius{
+    border-radius: 0;
+}
+
+.c5_card_headings{
+    padding: 1rem;
+    color: black;
+}
+
+/* card 6 */
+.card6{
+    width: 400px;
+}
+
+.section1{
+    display: flex;
+}
+
+.c6_card_img img{
+    height: 100px;
+    width: 100px;
+}
+
+.padding_sm{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
