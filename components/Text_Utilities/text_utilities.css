@@ -1,0 +1,57 @@
+.show_heading{
+    margin: 1rem;
+    color: rgb(0, 0, 0);
+}
+
+.heading1, .paragraph1{
+    font-size: 48px;
+    line-height: 64px;
+}
+
+.heading2, .paragraph2{
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.heading3, .paragraph3{
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.heading4, .paragraph4{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.heading5, .paragraph5{
+    font-size: 8px;
+    line-height: 16px;
+}
+
+.heading_desc, .para_desc{
+    font-size: 0.9rem;
+}
+
+.font_weight300{
+    font-weight: 300;
+}
+
+.font_weight400{
+    font-weight: 400;
+}
+
+.font_weight600{
+    font-weight: 600;
+}
+
+.font_weight700{
+    font-weight: 700;
+}
+
+.font_weight900{
+    font-weight: 900;
+}
+
+.font_size{
+    font-size: 32px;
+}
