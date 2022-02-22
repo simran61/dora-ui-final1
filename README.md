@@ -26,7 +26,7 @@ A doremon for website UI
 
 <br />
 
-Dora UI is a component library which offers....
+Like doremon is the solution to Nobita's every problem, similarly DoraUI is the solution for all your website UI design related problems :) . Dora UI is a component library which offers creative components by simply copy pasting the code.
 
 <br />
 
@@ -74,17 +74,22 @@ Just copy-paste the stylesheet `<link>`'s into your `<head>` to load our CSS.
 
 ### **Screenshot**
 
-![doraUI-landing-page]()
+![doraUI](https://user-images.githubusercontent.com/82234663/155046560-ee0426ef-fddd-427e-baef-2fb528a9eca6.gif)
 
-![docs-home-page]()
 
-![image]()
-
-![image]()
-
-![image]()
-
-![image]()
+![DoraUI LANDING PAGE](https://user-images.githubusercontent.com/82234663/155044489-0b432fe6-072f-41e5-a5ef-c8d242bdc64c.png)
+<br>
+<br>
+![installation](https://user-images.githubusercontent.com/82234663/155045327-edfe3a88-d57d-4d82-9df1-d0f60d8bc1da.png)
+<br/><br>
+<br>
+![alerts](https://user-images.githubusercontent.com/82234663/155045331-3da262e3-f857-4c3c-b29f-1eec7a37c1a9.png)
+<br/><br>
+<br>
+![Card](https://user-images.githubusercontent.com/82234663/155045335-df1e3c74-cfb9-4d3f-af53-28a0f8a2a634.png)
+<br/><br>
+<br>
+![Navigation](https://user-images.githubusercontent.com/82234663/155045339-1ffe3b56-ea26-450c-84de-175ad8f6e9af.png)
 
 
 
